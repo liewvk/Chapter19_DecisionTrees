@@ -1,0 +1,6 @@
+StudyHours,Attendance,AssignmentScore,ActualResult,DecisionTreePrediction,RandomForestPrediction
+1,50,35,Fail,Fail,Fail
+2,52,38,Fail,Fail,Fail
+9,93,91,Pass,Pass,Pass
+6,82,70,Pass,Pass,Pass
+9,95,90,Pass,Pass,Pass
